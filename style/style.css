@@ -1,0 +1,50 @@
+header{margin: 0px 0px;
+  background: linear-gradient(#e66465, #9198e5);;
+height: 200px;
+width: 1235px;
+border-bottom: solid 3px;}
+body{
+width: 1200px;
+height: 100px;
+margin: 0px 0px;}
+.time{padding-top: 0px;
+  margin:0px 100px;
+display: inline-block;}
+h1{color: rgb(255, 255, 255);
+font-style: italic;}
+.anime{background-image: url(https://i.yapx.ru/Gj3OK.gif);
+  z-index: 1;
+  width: 250px;
+  height: 150px;
+  display: inline-block;
+  margin-left: 400px;
+  margin-top: 20px;
+  background-size:250px 150px;
+  border-radius: 50px;
+  border:solid 3px;
+}
+main{margin: 0px 0px;
+  background:url(https://c.tenor.com/CGIOAdAHkdEAAAAC/high-school-kimenguni-anime.gif);
+  width: 1235px;
+height: 1200px;
+background-size:1435px 1200px;
+background-position: center;}
+ li,ul{
+list-style: none;
+font-style: italic;
+font-size: 40px;
+font-weight: bold;
+
+ }
+li{
+padding-left: 50px;}
+ul{margin-top:0px;
+  text-decoration: underline;
+padding-left: 50px;}
+.anime2{background-image: url(https://i.yapx.ru/MrWRw.gif);
+background-position: center;
+width: 1200px;
+height: 300px;
+display: inline-block;}
+footer{border-top:solid violet 5px;
+  width: 1235px;}
